@@ -61,7 +61,7 @@ Example of generating block diagrams from ASCII art using =ditaa=:
 Example of generating UML diagrams from textual descriptions using =plantuml=:
 
 #+CAPTION: Schematic overview of client side data entities
-[[./assets/clientmodel.png]]
+[[../assets/clientmodel.png]]
 
 In the following sections each data field is expressed with type
 information, in Java style pseudo-code form.
